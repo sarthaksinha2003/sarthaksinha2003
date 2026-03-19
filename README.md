@@ -10,7 +10,7 @@
 
 ---
 
-## 💡 About Me (Quick Version)
+## 💡 About Me
 
 - 🎯 Backend Developer building high-performance systems
 - 🏆 **700+ LeetCode problems** | **1600+ rating**
