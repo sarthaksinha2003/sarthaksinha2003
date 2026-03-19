@@ -61,26 +61,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+### 🐍 Snake Game - Contributions Visualized
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sarthaksinha2003&theme=radical&no-frame=true&margin-w=10)
-
-</div>
+![snake gif](https://github.com/sarthaksinha2003/sarthaksinha2003/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 <div align="center">
 
-### 💡 Open to opportunities in Backend Engineering
-
-**Let's build something awesome together!**
+[![](https://visitcount.itsvg.in/api?id=sarthaksinha2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
----
-
-## 🐍 Snake Game (Click to play!)
-
-![Snake Game](https://github.com/sarthaksinha2003/sarthaksinha2003/blob/output/github-contribution-grid-snake-dark.svg)
