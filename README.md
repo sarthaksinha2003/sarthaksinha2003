@@ -40,13 +40,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sarthaksinha2003&theme=radical&hide_border=true&bg_color=0D1117&text_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&card_width=400)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=sarthaksinha2003&theme=radical&hide_border=true&background=0D1117&ring=00D9FF)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksinha2003&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&text_color=00D9FF&title_color=00D9FF)
-
+    <img src="https://github-readme-stats.vercel.app/api?username=sarthaksinha2003&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksinha2003&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF" alt="GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksinha2003&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&text_color=00D9FF&title_color=00D9FF" alt="Top Languages" />
 </div>
 
 ---
