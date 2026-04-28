@@ -11,7 +11,7 @@ I'm a passionate **backend engineer** and **system designer** specializing in bu
 - **Currently working on** backend optimization projects and **distributed systems**
 - **Currently learning** advanced **system design patterns**, **microservices architecture**
 - **Looking to collaborate on** open source backend projects and **system design initiatives**
-- **700+ LeetCode problems solved** | **1600+ LeetCode rating (Top 1.1%)**
+- **800+ LeetCode problems solved** | **1650+ LeetCode rating (Top 1.1%)**
 
 ---
 
